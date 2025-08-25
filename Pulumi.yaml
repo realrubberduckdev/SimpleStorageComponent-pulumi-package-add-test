@@ -1,0 +1,3 @@
+name: pulumi-sample-component
+runtime: dotnet
+description: A simple Pulumi component example using C# .NET

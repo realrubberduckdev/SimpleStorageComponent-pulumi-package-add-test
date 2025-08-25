@@ -1,0 +1,21 @@
+# Pulumi
+.pulumi/
+Pulumi.*.yaml
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
